@@ -1,0 +1,160 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    .head
+    {  
+      color : blanchedalmond;
+      padding-left: 517px;
+      padding-top: 1px;
+      margin-top: 80px;
+      padding-bottom: 1px;
+      background-color: darkred;
+      border-radius: 50px;
+      
+      
+
+    }
+
+    .button1
+    
+    {margin-top: 0px;
+        margin-left: 310px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        background-color: blanchedalmond;
+    }
+
+    .button2
+    {
+        margin-top: 0px;
+        margin-left: 310px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        background-color: blanchedalmond;
+
+    }
+    body
+    {
+    background-color:  #CDF5FA ;
+    border-bottom: darkmagenta;
+    background-image: url('background.jpg');
+   
+    }
+    
+    .top
+    {
+    border: solid 3px ;
+    border-color: #2BF9F5;
+    border-radius: 25px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    width:600px;
+    padding: 10px;
+    background-image: url('loginstructure6.jpg');
+    }
+    .title
+    { 
+      padding-left: 220px;
+      padding-top: 80px;
+      font-size: 50px;
+      color: blanchedalmond;
+      border-spacing: 20px;
+      
+
+    }
+    .login
+    {
+    margin-top: 30px;
+    margin-left: 185px;
+    
+    
+    }
+    .btn1
+    {
+    margin-top: -10px;
+    margin-left: -150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-style: bold;
+   
+    display:flex;
+    }
+
+    .btn2
+    {
+        margin-top: -10px;
+        margin-left: -50px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+       
+        display:flex;
+
+    }
+
+    .btn3
+    {
+        margin-top: -100px;
+        margin-left: 20px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+       
+        display:flex;
+
+    }
+
+
+    
+    .border
+    {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 150px;
+ 
+}
+.login label
+{
+font-size: 35px;
+color: rgb(216, 21, 21);
+text-shadow: violet;
+background-color: rgb(235, 218, 175);
+}
+input[type=text] {
+width: 40%;
+padding: 8px 10px;
+margin: 8px 0;
+margin-left: 22px;
+box-sizing: border-box;
+}
+input[type=password] {
+width: 40%;
+padding: 8px 10px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+div input
+{
+margin-bottom: 20px;
+margin-top: 20px;
+margin-left: 310px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+background-color: rgb(235, 218, 175);
+}

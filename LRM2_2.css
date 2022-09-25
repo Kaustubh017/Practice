@@ -1,0 +1,88 @@
+*
+{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body
+{
+    background-image: url('demo5.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    height: auto;
+    width: auto;
+    
+
+}
+.top
+{
+text-align: left;
+}
+.top ul
+{
+display:inline-table ;
+list-style: none;
+color: #fff;
+background-image: url('loginstructure6.jpg');
+padding-right: 35px;
+margin-left: 50px;
+margin-top: 55px;
+}
+.top ul li
+{
+width: 120px;
+margin:15px ;
+padding: 15px;
+}
+.top ul li a
+{
+text-decoration: none;
+color: rgb(243, 242, 236);
+font-size: 20px;
+}
+.active,.top ul li:hover
+{
+
+border-radius: 40px;
+border-width: 10px;
+
+}
+
+#s1
+{
+    padding-top: 0px;
+}
+.text
+{color: rgb(226, 239, 229);
+    font-size: 40px;
+margin-top: 250px;
+margin-left: 20px;
+}
+#btn
+{
+margin-top: 30px;
+margin-left: 0px;
+border: rgb(221, 219, 209) solid 1px;
+height: 40px;
+
+cursor: pointer;
+background-color: transparent;
+margin-left: 5px;
+padding-left: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+color: rgb(243, 239, 238);
+font-size: 20px;
+}
+.color
+{  padding-top: 5px;
+   font-size: 40px;
+color: rgb(255, 249, 249);
+}
+.Title
+{
+    margin-top:35px;
+    font-size: 50px;
+    color:rgb(235, 232, 223);
+}
